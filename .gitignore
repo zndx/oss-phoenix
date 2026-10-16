@@ -115,3 +115,11 @@ helm/charts/*.tgz
 
 # Claude plugin eval run output (claude plugin eval)
 /plugins/claude/arize-phoenix/evals/results/
+
+# Devenv
+.devenv*
+devenv.local.nix
+devenv.local.yaml
+
+# direnv
+.direnv
